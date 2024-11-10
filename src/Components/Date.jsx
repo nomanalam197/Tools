@@ -43,7 +43,7 @@ export default function Convert() {
 
         <div className='mt-5 pb-5'>
           <h1 className='text-center'>Difference</h1>
-          <h1 className='text-center head d1'>{result} Days</h1>
+          <h1 className='text-center head d1'>{result ? result:0} Days</h1>
         </div>
 
     </div>
