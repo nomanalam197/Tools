@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  html,body{
+    height: 100%;
+    width: 100%;
+  }
+  
+  .i{
+    -webkit-filter: drop-shadow(5px 5px 5px #222 );
+    filter: drop-shadow(5px 5px 5px #222);
+
+  }
+  .n{
+    background-color: #202F41;
+    
+    display: flex;
+    align-item: center;
+    justify-content: center;
+  }
+
+
+  
